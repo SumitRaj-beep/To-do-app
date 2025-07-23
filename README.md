@@ -1,7 +1,7 @@
 # To-do-app
-A To-do tool which can help you add delete list all your to-dos. 
-How to use:
-*Add: write add then write  todo you want to add.
-*Delete: write delete and then mention the index which you want to delete.
-*List: write list and it lists all your to-dos.
-*Quit: write quit and you quit the to-do app.
+A simple command-line To-do app that helps you **add**, **delete**, and **list** your to-dos.
+
+**Add**: Type `add`, then enter the to-do you want to add.  
+**Delete**: Type `delete`, then enter the index of the to-do to delete.  
+**List**: Type `list` to view all your to-dos.  
+**Quit**: Type `quit` to exit the app.
