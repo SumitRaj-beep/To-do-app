@@ -5,4 +5,5 @@ A simple command-line To-do app that helps you **add**, **delete**, and **list**
 **Delete**: Type `delete`, then enter the index of the to-do to delete.  
 **List**: Type `list` to view all your to-dos.  
 **Quit**: Type `quit` to exit the app.
-hosted live a:https://sumitraj-beep.github.io/To-do-app/
+
+Hosted live here: https://sumitraj-beep.github.io/To-do-app/
